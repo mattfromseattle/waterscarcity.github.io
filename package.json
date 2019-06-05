@@ -1,6 +1,7 @@
 {
   "name": "waterscarcity",
   "version": "0.0.0",
+  "homepage": "http://mattfromseattle.com/waterscarcity/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
