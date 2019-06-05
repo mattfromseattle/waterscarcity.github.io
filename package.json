@@ -1,7 +1,7 @@
 {
   "name": "waterscarcity",
   "version": "0.0.0",
-  "homepage": "http://mattfromseattle.github.io/waterscarcity/",
+  "homepage": "http://mattfromseattle.com/waterscarcity.github.io",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
